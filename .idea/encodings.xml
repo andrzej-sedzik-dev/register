@@ -2,19 +2,34 @@
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$/../frontend/.angular-cli.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../frontend/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../frontend/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../frontend/server.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../frontend/src/app/components/password/request-reset/request-reset.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../frontend/src/app/components/password/response-reset/response-reset.component.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../frontend/src/app/components/password/response-reset/response-reset.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../frontend/src/app/components/signup/form.object.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../frontend/src/app/components/signup/form.object.ts" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/.env" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/Http/Controllers/AuthController.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/Http/Controllers/AuthController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/ChangePasswordController.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/ResetPasswordController.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/Http/Kernel.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/Http/Middleware/CORS.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/Http/Middleware/CORS.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Requests/ChangePasswordRequest.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/Http/Requests/SignUpRequest.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/Http/Requests/demo.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Mail/ResetPasswordMail.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Mail/ResetPasswordMail.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/User.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config/auth.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/Email/passwordReset.blade.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/routes/api.php" charset="UTF-8" />
   </component>
 </project>
