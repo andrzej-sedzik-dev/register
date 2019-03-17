@@ -1,12 +1,14 @@
 @component('mail::message')
-    # Change password Request
+# Change password
 
-    Click on the button below to change password
+Click on the button bellow to change password
 
-    @component('mail::button', ['url' => 'http://angular-deploy2020.herokuapp.com/response-password-reset?token='.$token])
-        Reset Password
-    @endcomponent
+@component('mail::button', ['url' => 'http://angular-deploy2020.herokuapp.com/response-password-reset?token='.$token])
 
-    Thanks,<br>
-    {{ config('app.name') }}
+Reset Password
+
+@endcomponent
+
+Thanks,<br>
+{{ config('app.name') }}
 @endcomponent
