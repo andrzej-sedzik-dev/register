@@ -3,7 +3,7 @@
 
 Click on the button bellow to change password
 
-@component('mail::button', ['url' => 'http://angular-deploy2020.herokuapp.com/response-password-reset?token='.$token])
+@component('mail::button', ['url' => 'http://larva-register.herokuapp.com/response-password-reset?token='.$token])
 
 Reset Password
 
