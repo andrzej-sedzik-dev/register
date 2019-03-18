@@ -3,7 +3,7 @@
 
 Click on the button bellow to change password
 
-@component('mail::button', ['url' => 'http://app/response-password-reset?token='.$token])
+@component('mail::button', ['url' => 'http://larva-register.herokuapp.com/app'])
 
 Reset Password
 
