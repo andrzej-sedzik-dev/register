@@ -641,7 +641,7 @@ var SignupComponent = /** @class */ (function () {
     };
     SignupComponent.prototype.handleResponse = function (data) {
         this.Token.handle(data.access_token);
-        this.router.navigateByUrl('/app');
+        this.router.navigateByUrl('/');
         window.location.reload();
     };
     SignupComponent.prototype.handleError = function (error) {
